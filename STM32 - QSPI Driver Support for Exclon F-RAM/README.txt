@@ -1,0 +1,2 @@
+# This Contains QSPI Driver support for STM32 controllers from ST Micro electronics.
+Further details can be found on our blog at following address: https://community.cypress.com/community/memory/nonvolatile-ram/blog/2018/02/26/driver-support-for-quad-spi-excelon-ultra-f-ram-on-stm32-nucleo-platform
