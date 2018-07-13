@@ -1,1 +1,1 @@
-# This Contains various driver support, Code Examples developed to enable Cypres F-RAM on PSoC, STM32, NXP controllers
+# This repository contains drivers developed to enable Cypress F-RAM on STM32, NXP, Ambiq and code examples for PSoC6
