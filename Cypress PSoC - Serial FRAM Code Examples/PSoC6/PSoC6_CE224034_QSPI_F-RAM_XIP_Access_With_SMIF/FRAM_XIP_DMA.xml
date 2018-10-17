@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="FRAM_XIP_DMA" WorkspaceName="CE224034.cywrk">
+<Version>1.0</Version>
+<Keyword>FRAM</Keyword>
+<Keyword>XIP</Keyword>
+<Keyword>Memory Mapped</Keyword> 
+<Keyword>DMA</Keyword>
+<Keyword>SMIF</Keyword>
+<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+<Keyword Hidden="true">CY8CKIT-062-WIFI-BT</Keyword>
+<Description>This code example demonstrates how to use the SMIF block in XIP mode with an external F-RAM memory.</Description>
+<DeviceFilter>PSoC 62</DeviceFilter>
+<DeviceFilter>PSoC 63</DeviceFilter>
+<Document>CE224034_QSPI_F-RAM_Access_Using_PSoC6MCU_SMIF_in_XIPMode.pdf</Document>
+<MinToolVersion>4.2</MinToolVersion>
+</Project>
